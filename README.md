@@ -1,19 +1,21 @@
-Aloha 👋
+👋 Aloha
 
 *A surfer of life, a seeker of peace, my own adversary*    
 *My soul dwells where the ocean meets the horizon*    
-*I am less than all and more than naught, yet I do not truly exist*
-<!--
-**ImaLaghima/Imalaghima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I am less than all and more than naught, yet I do not truly exist*    
 
-Here are some ideas to get you started:
+⚡ Map
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [Steam](https://yourusername.itch.io)     -->
+[itch.io](https://itch.io/user/settings)    
+[GitHub](https://github.com/ImaLaghima) <- You are here    
+[X (Twitter)](https://x.com/imalaghima)    
+<!-- [Email](https://x.com/yourusername)     -->
+<!-- [Discord](https://discord.com/invite/your-discord-link)     -->
+<!-- [Discord Server](https://discord.com/invite/your-server-link)     -->
+<!-- [Instagram](https://discord.com/invite/your-server-link)     -->
+<!-- [TikTok](https://discord.com/invite/your-server-link)     -->
+<!-- [YouTube](https://discord.com/invite/your-server-link)     -->
+<!-- [Telegram](https://discord.com/invite/your-server-link)     -->
+<!-- [Web Site 1](https://discord.com/invite/your-server-link)     -->
+<!-- [Web Site 2](https://discord.com/invite/your-server-link)     -->
