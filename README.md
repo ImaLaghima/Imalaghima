@@ -7,7 +7,7 @@
 ⚡ Map
 
 <!-- [Steam](https://yourusername.itch.io)     -->
-[itch.io](https://itch.io/user/settings)    
+[itch.io](https://ima-laghima.itch.io/)    
 [GitHub](https://github.com/ImaLaghima) <- You are here    
 [X (Twitter)](https://x.com/imalaghima)    
 <!-- [Email](https://x.com/yourusername)     -->
