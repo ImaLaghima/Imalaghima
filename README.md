@@ -1,15 +1,9 @@
-👋 Aloha
-
-*A surfer of life, a seeker of peace, my own adversary*    
-*My soul dwells where the ocean meets the horizon*    
-*I am less than all and more than naught, yet I do not truly exist*    
-
-⚡ Map
+Digital artist and Godot game developer
 
 <!-- [Steam](https://yourusername.itch.io)     -->
-[itch.io](https://ima-laghima.itch.io/)    
-[GitHub](https://github.com/ImaLaghima) <- You are here    
-[X (Twitter)](https://x.com/imalaghima)    
+<!-- [itch.io](https://ima-laghima.itch.io/)    
+<!-- [GitHub](https://github.com/ImaLaghima) <- You are here    
+<!-- [X (Twitter)](https://x.com/imalaghima)    
 <!-- [Email](https://x.com/yourusername)     -->
 <!-- [Discord](https://discord.com/invite/your-discord-link)     -->
 <!-- [Discord Server](https://discord.com/invite/your-server-link)     -->
