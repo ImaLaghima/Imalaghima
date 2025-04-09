@@ -1,4 +1,8 @@
-Digital artist and Godot game developer
+Digital artist    
+Godot game developer    
+JS enjoyer    
+
+*Currently working on the Colibri*
 
 <!-- [Steam](https://yourusername.itch.io)     -->
 <!-- [itch.io](https://ima-laghima.itch.io/)    
