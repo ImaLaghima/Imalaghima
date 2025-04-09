@@ -1,6 +1,8 @@
+Surfer    
 Digital artist    
 Godot game developer    
 JS enjoyer    
+Airbender    
 
 *Currently working on the Colibri*
 
