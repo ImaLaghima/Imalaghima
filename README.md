@@ -1,8 +1,8 @@
 Surfer    
 Digital artist    
-Godot game developer    
-JS enjoyer    
 Airbender    
+<!-- Godot game developer    -->
+<!-- JS enjoyer    -->
 
 *Currently working on the Colibri - desktop color picker and palette manager*
 
