@@ -4,7 +4,7 @@ Godot game developer
 JS enjoyer    
 Airbender    
 
-*Currently working on the Colibri*
+*Currently working on the Colibri - desktop color picker and palette manager*
 
 <!-- [Steam](https://yourusername.itch.io)     -->
 <!-- [itch.io](https://ima-laghima.itch.io/)    
