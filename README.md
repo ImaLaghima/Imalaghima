@@ -1,11 +1,8 @@
 Surfer    
-Digital artist    
+Unity game developer    
+JS enjoyer    
 Airbender    
-<!-- Godot game developer    -->
-<!-- JS enjoyer    -->
-
-*Currently working on the Colibri - desktop color picker and palette manager*
-
+<!-- Digital artist    -->
 <!-- [Steam](https://yourusername.itch.io)     -->
 <!-- [itch.io](https://ima-laghima.itch.io/)    
 <!-- [GitHub](https://github.com/ImaLaghima) <- You are here    
