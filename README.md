@@ -1,7 +1,9 @@
-Surfer    
-Unity game developer    
-JS enjoyer    
-Airbender    
+### Hi 👋
+
+<!-- Surfer    -->
+<!-- Unity game developer    -->
+<!-- JS enjoyer    -->
+<!-- Airbender    -->
 <!-- Digital artist    -->
 <!-- [Steam](https://yourusername.itch.io)     -->
 <!-- [itch.io](https://ima-laghima.itch.io/)    
